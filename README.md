@@ -1,0 +1,5 @@
+- *Developed* a depression detection system using RoBERTa embeddings and CNN for text analysis.
+- *Data Processing*: Collected, cleaned, and tokenized labeled text data from social media and forums.
+- *Model Training*: Combined RoBERTa and CNN, using data augmentation and dropout for robust training.
+- *Achieved* high accuracy and deployed as a real-time web/mobile app with a user-friendly interface.
+- *Impact*: Provided scalable early depression detection; plans to enhance accuracy and validate with professionals.
